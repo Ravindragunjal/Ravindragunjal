@@ -1,6 +1,6 @@
- <h1 align="center">Hi 👋, I'm Ravindra Gunjal</h1>
+<h1 align="center">Hi 👋, I'm Ravindra Gunjal</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img align="right" alt="No image" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif"/>
+<img align="right" alt="No image" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />  
 
 - 🔭 I’m currently working on **Responsive Blog Website Project**
 
